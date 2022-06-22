@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Yourself-Introduce---page/static/css/main.45cee72c.css",
-    "main.js": "/Yourself-Introduce---page/static/js/main.a96e23ed.js",
+    "main.css": "/Yourself-Introduce---page/static/css/main.25b9bee3.css",
+    "main.js": "/Yourself-Introduce---page/static/js/main.fb45e15c.js",
     "static/js/787.c04e6792.chunk.js": "/Yourself-Introduce---page/static/js/787.c04e6792.chunk.js",
+    "static/media/CV-Nguyen Quoc Phuong-Front End Intern.pdf": "/Yourself-Introduce---page/static/media/CV-Nguyen Quoc Phuong-Front End Intern.3ca580dea63531b4d5e3.pdf",
     "static/media/programming-languages.png": "/Yourself-Introduce---page/static/media/programming-languages.c746cdea049e89e365b2.png",
     "static/media/version-control.jpg": "/Yourself-Introduce---page/static/media/version-control.f2662bb0392e99b7a7ea.jpg",
     "static/media/frameworks-platforms.png": "/Yourself-Introduce---page/static/media/frameworks-platforms.b7b5e5783232faae979d.png",
     "index.html": "/Yourself-Introduce---page/index.html",
-    "main.45cee72c.css.map": "/Yourself-Introduce---page/static/css/main.45cee72c.css.map",
-    "main.a96e23ed.js.map": "/Yourself-Introduce---page/static/js/main.a96e23ed.js.map",
+    "main.25b9bee3.css.map": "/Yourself-Introduce---page/static/css/main.25b9bee3.css.map",
+    "main.fb45e15c.js.map": "/Yourself-Introduce---page/static/js/main.fb45e15c.js.map",
     "787.c04e6792.chunk.js.map": "/Yourself-Introduce---page/static/js/787.c04e6792.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45cee72c.css",
-    "static/js/main.a96e23ed.js"
+    "static/css/main.25b9bee3.css",
+    "static/js/main.fb45e15c.js"
   ]
 }
